@@ -1,2 +1,10 @@
-# relogio-dinamico
-Relógio dinâmico que altera tema, imagem e mensagem conforme horário do dia usando JavaScript.
+
+# Relógio Dinâmico
+
+Projeto desenvolvido para praticar JavaScript, alterando tema, imagem e mensagem conforme o horário do dia.
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+
